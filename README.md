@@ -18,6 +18,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar-commits&show_icons=true&locale=en&layout=compact" alt="prakhar-commits" /></p>
 
+![Visitor Count](https://profile-counter.glitch.me/prakhar-commits/count.svg)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar-commits&show_icons=true&locale=en" alt="prakhar-commits" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-commits&" alt="prakhar-commits" /></p>
